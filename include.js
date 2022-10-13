@@ -6451,6 +6451,13 @@ let cards = [
     githubLink: "https://github.com/sakshimudrale",
   },
   {
+    artName: 'Animateit',
+    pageLink: './Art/Joy/Animateit/index.html',
+    imageLink: './Art/Joy/Animateit/record.gif',
+    author: 'Deepshikha',
+    githubLink: 'https://github.com/deepshikhadey4'
+  },
+  {
     artName: "Snow",
     pageLink: "./Art/Snow/index.html",
     imageLink: "./Art/Snow/snow.gif",

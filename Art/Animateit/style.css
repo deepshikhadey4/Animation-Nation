@@ -1,0 +1,16 @@
+#box{
+  width: 400px;
+  height: 400px;
+  background-color: red;
+  margin-left: auto;
+  margin-right: auto;
+  animation-name: example;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example 
+{
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
